@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🧬 Turing Morphogenesis 3D
 
 **Real-time Gray–Scott reaction–diffusion on 3D surfaces — GPU-accelerated, interactive, alive.**
@@ -9,7 +7,8 @@
 [![DirectX](https://img.shields.io/badge/compute-DirectX%2011-red.svg)]()
 [![WPF](https://img.shields.io/badge/UI-WPF-9B4F96.svg)]()
 
-<img src="docs/images/hero.png" width="820" alt="Leopard spots on a sphere"/>
+<img width="1575" height="946" alt="{8406C4AB-3503-4646-893C-D4CE2573C168}" src="https://github.com/user-attachments/assets/2c9853f8-71e0-47e2-bf7c-eb557fb6c3c8" />
+
 
 *Leopard-spot pattern growing on a displaced sphere — computed live, not baked.*
 
@@ -30,8 +29,12 @@ sculpt them into relief, export them as meshes or video sequences.
 ```
 
 ## 🖼 Gallery
+<img width="1579" height="902" alt="{C3343D75-B333-4D26-AE74-AA0345F44A7A}" src="https://github.com/user-attachments/assets/f7e7fefe-f072-4d64-99f5-76e24641ea23" />
 
-|
+<img width="1578" height="918" alt="{EC2A228C-102C-4F81-A3C5-FD9463FAC209}" src="https://github.com/user-attachments/assets/4a6bbd47-cdaa-4611-a1e9-8d7301544982" />
+
+<img width="1584" height="909" alt="{C2D3063F-9600-4E0D-8765-0C68477E8497}" src="https://github.com/user-attachments/assets/1a19ff4c-4e99-4705-85d8-f2bf723cc89f" />
+
 ## ⚡ Two engines, one simulation
 
 | Engine | Path | Notes |
